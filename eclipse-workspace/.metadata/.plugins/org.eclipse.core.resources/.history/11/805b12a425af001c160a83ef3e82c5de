@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>스프링 부트 테스트</title>
+</head>
+<body>
+
+<h1>스프링부트 시작!!</h1>
+
+<br><br>
+
+<a href="/member/memberList">게시물 목록보기</a>
+<a href="/member/member
+
+</body>
+</html>
